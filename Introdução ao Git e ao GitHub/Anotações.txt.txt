@@ -2,7 +2,7 @@
 ‎Separamos os comandos de porcelana nos comandos principais e alguns utilitários auxiliares do usuário.‎
 
 ‎Principais comandos de porcelana‎
-git-add[1]
+git-add . ainda tudo ou -a
 ‎Adicionar conteúdo de arquivo ao índice‎
 
 git-am[1]
@@ -129,4 +129,15 @@ git-worktree[1]
 ‎Gerencie várias árvores de trabalho‎
 
 gitk[1]
-‎O navegador do repositório Git‎
+‎O navegador do repositório Git
+               
+
+(comentário do COMMIT é muito importante)
+git commit -m "inclusão das anotações de Git/GitHub teste" 
+
+Para subir verificar Git Status
+
+(Para subir repositorio main)
+git push origin main
+
+‎
