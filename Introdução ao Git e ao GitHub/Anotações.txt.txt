@@ -1,0 +1,132 @@
+‎Comandos de alto nível (porcelana)‎
+‎Separamos os comandos de porcelana nos comandos principais e alguns utilitários auxiliares do usuário.‎
+
+‎Principais comandos de porcelana‎
+git-add[1]
+‎Adicionar conteúdo de arquivo ao índice‎
+
+git-am[1]
+‎Aplique uma série de patches de uma caixa de correio‎
+
+git-archive[1]
+‎Crie um arquivo de arquivos de uma árvore nomeada‎
+
+git-bisect[1]
+‎Use a pesquisa binária para encontrar o compromisso que introduziu um bug‎
+
+git-branch[1]
+‎Liste, crie ou exclua filiais‎
+
+git-bundle[1]
+‎Mova objetos e árbitros por arquivo‎
+
+git-checkout[1]
+‎Mudar de ramo ou restaurar arquivos de árvore de trabalho‎
+
+git-cherry-pick[1]
+‎Aplique as alterações introduzidas por alguns compromissos existentes‎
+
+git-citool[1]
+‎Alternativa gráfica para git-commit‎
+
+git-clean[1]
+‎Remova arquivos não rastreados da árvore de trabalho‎
+
+git-clone[1]
+‎Clone um repositório em um novo diretório‎
+
+git-commit[1]
+‎Registrar alterações no repositório‎
+
+‎git-descrever[1]‎
+‎Dê a um objeto um nome legível humano com base em um árbitro disponível‎
+
+git-diff[1]
+‎Mostrar mudanças entre compromissos, cometer e trabalhar árvore, etc.‎
+
+git-fetch[1]
+‎Baixe objetos e árbitros de outro repositório‎
+
+git-format-patch[1]
+‎Prepare patches para envio de e-mails‎
+
+git-gc[1]
+‎Limpar arquivos desnecessários e otimizar o repositório local‎
+
+git-grep[1]
+‎Imprimir linhas que combinam com um padrão‎
+
+git-gui[1]
+‎Uma interface gráfica portátil para Git‎
+
+git-init[1]
+‎Crie um repositório git vazio ou reinicie um já existente‎
+
+git-log[1]
+‎Mostrar registros de compromisso‎
+
+‎git-manutenção[1]‎
+‎Execute tarefas para otimizar dados do repositório do Git‎
+
+git-merge[1]
+‎Junte-se a duas ou mais histórias de desenvolvimento juntas‎
+
+git-mv[1]
+‎Mova ou renomeie um arquivo, um diretório ou um symlink‎
+
+‎git-notas[1]‎
+‎Adicionar ou inspecionar notas de objeto‎
+
+git-pull[1]
+‎Buscar e integrar com outro repositório ou uma filial local‎
+
+git-push[1]
+‎Atualizar árbitros remotos junto com objetos associados‎
+
+git-range-diff[1]
+‎Compare duas faixas de compromisso (por exemplo, duas versões de um ramo)‎
+
+git-rebase[1]
+‎Reaplicar-se em cima de outra dica base‎
+
+git-reset[1]
+‎Redefinir o HEAD atual para o estado especificado‎
+
+‎git-restauração[1]‎
+‎Restaurar arquivos de árvore de trabalho‎
+
+‎git-reverter[1]‎
+‎Reverter alguns compromissos existentes‎
+
+git-rm[1]
+‎Remova arquivos da árvore de trabalho e do índice‎
+
+git-shortlog[1]
+‎Resumir a saída ‎‎de registro de git‎
+
+git-show[1]
+‎Mostre vários tipos de objetos‎
+
+git-sparse-checkout[1]
+‎Reduza sua árvore de trabalho a um subconjunto de arquivos rastreados‎
+
+git-stash[1]
+‎Esconda as mudanças em um diretório de trabalho sujo longe‎
+
+git-status[1]
+‎Mostre o status da árvore de trabalho‎
+
+git-submodule[1]
+‎Inicializar, atualizar ou inspecionar submodulos‎
+
+git-switch[1]
+‎Trocar de ramo‎
+
+git-tag[1]
+‎Criar, listar, excluir ou verificar um objeto de marca assinado com o GPG‎
+
+git-worktree[1]
+‎Gerencie várias árvores de trabalho‎
+
+gitk[1]
+‎O navegador do repositório Git‎
